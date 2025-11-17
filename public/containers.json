@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "zone": "A-1",
+    "status": "in_transit",
+    "lastUpdate": "2025-11-17T12:00:00Z",
+    "position": { "x": 1, "y": 3 }
+  },
+  {
+    "id": "2",
+    "zone": "A-2",
+    "status": "arrived",
+    "lastUpdate": "2025-11-17T12:05:00Z",
+    "position": { "x": 4, "y": 0 }
+  },
+  {
+    "id": "3",
+    "zone": "B-1",
+    "status": "placed",
+    "lastUpdate": "2025-11-17T11:50:00Z",
+    "position": { "x": 7, "y": 6 }
+  },
+  {
+    "id": "4",
+    "zone": "B-3",
+    "status": "awaiting_dispatch",
+    "lastUpdate": "2025-11-17T11:40:00Z",
+    "position": { "x": 3, "y": 9 }
+  },
+  {
+    "id": "5",
+    "zone": "C-1",
+    "status": "in_transit",
+    "lastUpdate": "2025-11-17T12:10:00Z",
+    "position": { "x": 6, "y": 2 }
+  },
+  {
+    "id": "6",
+    "zone": "C-4",
+    "status": "arrived",
+    "lastUpdate": "2025-11-17T12:15:00Z",
+    "position": { "x": 0, "y": 8 }
+  },
+  {
+    "id": "7",
+    "zone": "D-1",
+    "status": "placed",
+    "lastUpdate": "2025-11-17T11:30:00Z",
+    "position": { "x": 9, "y": 4 }
+  },
+  {
+    "id": "8",
+    "zone": "D-2",
+    "status": "awaiting_dispatch",
+    "lastUpdate": "2025-11-17T12:20:00Z",
+    "position": { "x": 2, "y": 2 }
+  },
+  {
+    "id": "9",
+    "zone": "E-1",
+    "status": "arrived",
+    "lastUpdate": "2025-11-17T12:22:00Z",
+    "position": { "x": 5, "y": 7 }
+  },
+  {
+    "id": "10",
+    "zone": "E-3",
+    "status": "placed",
+    "lastUpdate": "2025-11-17T11:25:00Z",
+    "position": { "x": 8, "y": 1 }
+  },
+  {
+    "id": "11",
+    "zone": "F-1",
+    "status": "in_transit",
+    "lastUpdate": "2025-11-17T12:30:00Z",
+    "position": null
+  },
+  {
+    "id": "12",
+    "zone": "F-2",
+    "status": "awaiting_dispatch",
+    "lastUpdate": "2025-11-17T10:30:00Z",
+    "position": null
+  },
+  {
+    "id": "13",
+    "zone": "G-1",
+    "status": "arrived",
+    "lastUpdate": "2025-11-17T11:10:00Z",
+    "position": { "x": 1, "y": 9 }
+  },
+  {
+    "id": "14",
+    "zone": "G-2",
+    "status": "placed",
+    "lastUpdate": "2025-11-17T11:55:00Z",
+    "position": { "x": 3, "y": 5 }
+  },
+  {
+    "id": "15",
+    "zone": "H-1",
+    "status": "in_transit",
+    "lastUpdate": "2025-11-17T12:40:00Z",
+    "position": { "x": 4, "y": 4 }
+  },
+  {
+    "id": "16",
+    "zone": "H-3",
+    "status": "awaiting_dispatch",
+    "lastUpdate": "2025-11-17T10:20:00Z",
+    "position": { "x": 7, "y": 8 }
+  },
+  {
+    "id": "17",
+    "zone": "I-2",
+    "status": "arrived",
+    "lastUpdate": "2025-11-17T11:05:00Z",
+    "position": { "x": 6, "y": 6 }
+  },
+  {
+    "id": "18",
+    "zone": "I-3",
+    "status": "placed",
+    "lastUpdate": "2025-11-17T12:45:00Z",
+    "position": { "x": 9, "y": 3 }
+  },
+  {
+    "id": "19",
+    "zone": "J-1",
+    "status": "in_transit",
+    "lastUpdate": "2025-11-17T12:50:00Z",
+    "position": { "x": 2, "y": 7 }
+  },
+  {
+    "id": "20",
+    "zone": "J-2",
+    "status": "awaiting_dispatch",
+    "lastUpdate": "2025-11-17T12:55:00Z",
+    "position": { "x": 0, "y": 1 }
+  }
+]
